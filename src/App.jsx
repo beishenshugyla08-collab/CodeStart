@@ -452,25 +452,25 @@ export default function CodeStart() {
           <div>
             <h4 className="font-bold mb-4">Қызмет</h4>
             <ul className="space-y-2 text-gray-400 text-sm">
-              <li><a href="#" className="hover:text-white transition">Курстар</a></li>
-              <li><a href="#" className="hover:text-white transition">Мамандар</a></li>
-              <li><a href="#" className="hover:text-white transition">Сертификат</a></li>
+              <li><a href="javascript:void(0)" className="hover:text-white transition">Курстар</a></li>
+              <li><a href="javascript:void(0)" className="hover:text-white transition">Мамандар</a></li>
+              <li><a href="javascript:void(0)" className="hover:text-white transition">Сертификат</a></li>
             </ul>
           </div>
           <div>
             <h4 className="font-bold mb-4">Компания</h4>
             <ul className="space-y-2 text-gray-400 text-sm">
-              <li><a href="#" className="hover:text-white transition">Туралы</a></li>
-              <li><a href="#" className="hover:text-white transition">Сұрау</a></li>
-              <li><a href="#" className="hover:text-white transition">Жергіліктер</a></li>
+              <li><a href="javascript:void(0)" className="hover:text-white transition">Туралы</a></li>
+              <li><a href="javascript:void(0)" className="hover:text-white transition">Сұрау</a></li>
+              <li><a href="javascript:void(0)" className="hover:text-white transition">Жергіліктер</a></li>
             </ul>
           </div>
           <div>
             <h4 className="font-bold mb-4">Ынамдық</h4>
             <ul className="space-y-2 text-gray-400 text-sm">
-              <li><a href="#" className="hover:text-white transition">Құпиялық</a></li>
-              <li><a href="#" className="hover:text-white transition">Құндылық</a></li>
-              <li><a href="#" className="hover:text-white transition">Байланыс</a></li>
+              <li><a href="javascript:void(0)" className="hover:text-white transition">Құпиялық</a></li>
+              <li><a href="javascript:void(0)" className="hover:text-white transition">Құндылық</a></li>
+              <li><a href="javascript:void(0)" className="hover:text-white transition">Байланыс</a></li>
             </ul>
           </div>
         </div>

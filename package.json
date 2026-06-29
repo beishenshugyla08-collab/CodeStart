@@ -1,0 +1,21 @@
+{
+  "name": "codestart",
+  "version": "1.0.0",
+  "description": "CodeStart - Online Learning Platform",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.294.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.0",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.16"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "dev": "vite"
+  }
+}
